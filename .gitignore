@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+out/
+aseprite_extension/bin/
+output*.png
+*.zip
+.DS_Store
+Thumbs.db
+uv.lock
+.zcode/
+*.vbs

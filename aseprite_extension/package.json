@@ -1,0 +1,21 @@
+{
+  "name": "perfect-pixel",
+  "title": "PerfectPixel 像素画精修",
+  "displayName": "PerfectPixel 像素画精修",
+  "description": "AI 像素画点阵逆向还原、对齐精修与色彩量化工具",
+  "version": "1.0.0",
+  "author": {
+    "name": "PerfectPixel Studio"
+  },
+  "contributors": [],
+  "categories": ["Scripts"],
+  "homepage": "https://github.com/myrootwxs/PerfectPixel",
+  "main": "./main.lua",
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./main.lua"
+      }
+    ]
+  }
+}

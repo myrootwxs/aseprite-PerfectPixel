@@ -1,0 +1,35 @@
+[project]
+name = "perfect-pixel-cli"
+version = "1.0.0"
+description = "AI pixel art reverse-alignment, color quantization, and Aseprite extension bridge"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "myrootwxs" }
+]
+keywords = [
+    "pixel-art",
+    "image-processing",
+    "opencv",
+    "aseprite",
+    "aseprite-extension",
+    "cli",
+]
+dependencies = [
+    "perfect-pixel[opencv]>=0.1.2",
+    "numpy>=1.24",
+    "opencv-python>=4.8",
+    "Pillow>=10.0",
+]
+
+[project.scripts]
+perfect-pixel-cli = "perfect_pixel_cli:main"
+
+[project.urls]
+Homepage = "https://github.com/myrootwxs/PerfectPixel"
+"Core algorithm" = "https://github.com/theamusing/perfectPixel"
+
+[tool.ruff]
+line-length = 92
+target-version = "py310"
