@@ -9,7 +9,7 @@
   },
   "contributors": [],
   "categories": ["Scripts"],
-  "homepage": "https://github.com/myrootwxs/PerfectPixel",
+  "homepage": "https://github.com/myrootwxs/aseprite-PerfectPixel",
   "main": "./main.lua",
   "contributes": {
     "scripts": [

@@ -1,4 +1,4 @@
-# PerfectPixel
+# aseprite-PerfectPixel
 
 > **AI 像素画点阵逆向还原、智能抠图与色彩量化工具**  
 > 原生集成 **Aseprite 官方扩展插件** 与 **独立高性能 CLI 命令行工具**。
@@ -29,7 +29,7 @@
 
 ### 1. 下载与安装
 
-1. 前往本仓库的 [Releases 页面](https://github.com/myrootwxs/PerfectPixel/releases) 下载最新的 `perfect-pixel-v1.0.0.aseprite-extension`；
+1. 前往本仓库的 [Releases 页面](https://github.com/myrootwxs/aseprite-PerfectPixel/releases) 下载最新的 `perfect-pixel-v1.0.0.aseprite-extension`；
 2. **方法 A（推荐）**：直接在操作系统中双击 `.aseprite-extension` 文件，Aseprite 会自动弹窗询问安装，点击 **“启用 (Enable)”** 即可；
 3. **方法 B**：打开 Aseprite，进入菜单 **编辑 (Edit) $\rightarrow$ 首选项 (Preferences) $\rightarrow$ 扩展 (Extensions)**，点击 **添加扩展 (Add Extension)** 并选择该文件。
 

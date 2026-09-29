@@ -27,7 +27,7 @@ dependencies = [
 perfect-pixel-cli = "perfect_pixel_cli:main"
 
 [project.urls]
-Homepage = "https://github.com/myrootwxs/PerfectPixel"
+Homepage = "https://github.com/myrootwxs/aseprite-PerfectPixel"
 "Core algorithm" = "https://github.com/theamusing/perfectPixel"
 
 [tool.ruff]
